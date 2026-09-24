@@ -1,5 +1,5 @@
 # PRODIGY_DS_03
-# Task 3: Decision Tree for Credit Risk Prediction  Part of the Prodigy Infotech Data Science Internship.  ## Objective Build a decision tree classifier to predict loan default using demographic and financial characteristics of borrowers.  ## Dataset Credit Risk dataset (CSV).  ## Approach - Median imputation for employment length and loan 
+# Task 3: Decision tree classifier that predicts loan default from demographic and financial features on a credit risk dataset (~91% accuracy). Prodigy Infotech Data Science Internship, Task 3.
 # Task 3: Decision Tree for Credit Risk Prediction
 
 Part of the Prodigy Infotech Data Science Internship.
